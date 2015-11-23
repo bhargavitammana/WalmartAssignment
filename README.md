@@ -15,4 +15,4 @@ Steps to run the tests
 
 Improvements need to be done if an additional time provided
 - All the configurations for UI elements and test data can be moved to a config/data file where we can read and update the configurations
-- With an additional code, we can invoke the test scripts using different test data reading from an excel/csv file for different browsers(data driven test)
+- Data driven test implementation With an additional code, we can invoke the test scripts using different test data by reading from an excel/csv file to cover all scenarios

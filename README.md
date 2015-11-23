@@ -9,11 +9,8 @@ chromedriver
 Steps to run the tests
 --
 1. extract code using "git clone https://github.com/bhargavitammana/WalmartAssignment.git"
---
 2. import project as a java project in eclipse workspace
---
 3. provide the downloaded chromedriver path in /WMTAssignment/src/com/walmart/ecommerce/tests/config/TestConfiguration.java file
---
 4. Move to TestWalmart.java and run that as a JUnit test
 
 Improvements needs to be done if an additional time provided
